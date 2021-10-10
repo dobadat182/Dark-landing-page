@@ -1,0 +1,33 @@
+// Variables scss
+@font-face {
+    font-family: "Graphik-Regular";
+    src: url(../assets/fonts/Graphik-Regular.ttf);
+}
+@font-face {
+    font-family: "Graphik-Medium";
+    src: url(../assets/fonts/Graphik-Medium.ttf);
+}
+@font-face {
+    font-family: "Graphik-Semibold";
+    src: url(../assets/fonts/Graphik-Semibold.ttf);
+}
+@font-face {
+    font-family: "Graphik-Bold";
+    src: url(../assets/fonts/Graphik-Bold.ttf);
+}
+
+$font-primary: "Graphik-Regular", sans-serif;
+$font-second: "Graphik-Medium", sans-serif;
+$font-third: "Graphik-Semibold", sans-serif;
+$font-fourth: "Graphik-Bold", sans-serif;
+
+// Font weight
+$fw-0: 400;
+$fw-1: 500;
+$fw-2: 600;
+$fw-3: 700;
+
+// Color  ===
+$color-primary: #000000;
+$color-second: #FFFFFF;
+$color-third: #4452FE;

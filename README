@@ -1,0 +1,3 @@
+# How to start SASS in projects.
+- Start scss: css | scss app.scss app.css --watch
+- Ba màu chủ đạo là đen trắng và xanh dương
